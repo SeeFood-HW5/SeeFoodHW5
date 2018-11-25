@@ -1,0 +1,37 @@
+@import url(https://fonts.googleapis.com/css?family=Tangerine);
+@import url(https://fonts.googleapis.com/css?family=Cedarville+Cursive);
+
+.jumbotron {
+	font-family: "Cedarville+Cursive", serif;
+	font-size: 48px;
+}
+
+h3 {
+	font-family: "Tangerine", serif;
+	font-size: 48px;
+}
+
+h4 {
+	font-family: "Cedarville+Cursive", serif;
+}
+
+/* QR image */
+.qr {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	width: 20%;
+}
+
+/* Photo Grid */
+.grid {
+	width:30%;
+	float:left;
+	margin:1.66%;
+}
+
+li {
+	font-family: "Cedarville+Cursive", serif;
+}
+
+
